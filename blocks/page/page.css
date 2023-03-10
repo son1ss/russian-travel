@@ -11,5 +11,5 @@
   display: flex;
   flex-direction: column;
   align-items: center;
-  font-family: 'Inter';
+  font-family: 'Inter', Arial, Helvetica, sans-serif;
 }
