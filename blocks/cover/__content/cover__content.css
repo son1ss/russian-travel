@@ -1,0 +1,19 @@
+.cover__content {
+  position: absolute;
+  background-color: #2a2c2f4D;
+  text-decoration: none;
+  color: #fff;
+  width: 100%;
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  gap: 32px;
+}
+
+@media screen and (max-width: 700px) {
+  .cover__content {
+    gap: 5vw;
+  }
+}
