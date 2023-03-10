@@ -1,6 +1,7 @@
 @import url('../vendor/fonts.css');
 @import url('../blocks/cover/cover.css');
 @import url('../blocks/cover/__content/cover__content.css');
+@import url('../blocks/cover/__content/cover__content_hovered/cover__content_hovered.css');
 @import url('../blocks/cover/__subtitle/cover__subtitle.css');
 @import url('../blocks/cover/__title/cover__title.css');
 @import url('../blocks/footer/footer.css');
@@ -12,6 +13,7 @@
 @import url('../blocks/header/__link/_active/header__link_active.css');
 @import url('../blocks/header/__links/header__links.css');
 @import url('../blocks/header/__logo/header__logo.css');
+@import url('../blocks/hovered-link/hovered-link.css');
 @import url('../blocks/intro/intro.css');
 @import url('../blocks/intro/__list/intro__list.css');
 @import url('../blocks/intro/__list-span-item/intro__list-span-item.css');

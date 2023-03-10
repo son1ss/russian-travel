@@ -19,5 +19,6 @@
     flex-direction: column;
     gap: 15vw;
     align-items: start;
+    padding: 0 5vw 24px;
   }
 }
