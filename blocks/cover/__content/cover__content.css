@@ -1,15 +1,21 @@
 .cover__content {
-  position: absolute;
   background-color: #2a2c2f4D;
   text-decoration: none;
   color: #fff;
   width: 100%;
-  height: 100%;
+  min-height: 100%;
   display: flex;
+  flex-grow: 1;
+  flex-basis: auto;
   flex-direction: column;
   justify-content: center;
   align-items: center;
   gap: 32px;
+}
+
+.cover__content:hover {
+  background-color: #2a2c2fCC;
+  transition: 0.2s ease-in-out;
 }
 
 @media screen and (max-width: 700px) {
